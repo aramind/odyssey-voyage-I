@@ -94,3 +94,9 @@ composing supergraph with Federation 2.11.0
 WARN: Connector debugging is enabled, this may expose sensitive information.
 ==> Your supergraph is running! head to http://localhost:4000 to query your supergraph
 ```
+
+We can now navigate to our local sandbox and explore the graph with queries stitching the locations and activities
+sub-graphs.:
+
+![](images/sandbox.png)
+
